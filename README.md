@@ -42,7 +42,15 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-SQLMap-005571?style=for-the-badge&logo=sqlmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-John_the_Ripper-005571?style=for-the-badge&logo=John-the-Ripper&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-005571?style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-005571?style=for-the-badge&logo=Hydra&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-005571?style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chisel-005571?style=for-the-badge&logo=Chisel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Responder-005571?style=for-the-badge&logo=Responder&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-005571?style=for-the-badge&logo=Gobuster&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-005571?style=for-the-badge&logo=Nikto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BurpSuite-005571?style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rubeus-005571?style=for-the-badge&logo=Rubeus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-msfvenom-005571?style=for-the-badge&logo=msfvenom&logoColor=white" />
 </div>
 
 ## Certifications
