@@ -12,6 +12,16 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Pentesting Tools                              | <a href="https://github.com/c2dragon/Pentesting">GitHub Repository</a>|
+| Pentesting Report Writing                     | <a href="https://c2dragon.github.io/categories/htb/">Hack The Box Writeups</a>|
+| Active Directory                              | <a href="https://c2dragon.github.io/categories/attacking-active-directory/">Attacking Active Directory</a>|
+| Splunk SIEM/SPL                               | <a href="https://c2dragon.github.io/categories/attacking-active-directory/">Attacking Active Directory</a>|
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-OSCP-784099?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Tools
 
@@ -53,11 +63,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-msfvenom-005571?style=for-the-badge&logo=msfvenom&logoColor=white" />
 </div>
 
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-OSCP-784099?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-
 ## Projects
+
+- Zero Day Hunting
+- Attacking Active Directory
+- Hack The Box
